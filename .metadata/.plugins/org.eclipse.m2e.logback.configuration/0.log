@@ -1,0 +1,11 @@
+2018-02-11 17:15:35,928 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salem:jee:0.0.1-SNAPSHOT @ D:\repositories\projects\jee\pom.xml.
+2018-02-11 17:15:37,438 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jee/src/main/java
+2018-02-11 17:15:37,440 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salem:jee:0.0.1-SNAPSHOT @ D:\repositories\projects\jee\pom.xml.
+2018-02-11 17:15:37,443 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jee/src/main/resources
+2018-02-11 17:15:37,444 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jee/src/test/java
+2018-02-11 17:15:37,445 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jee/src/test/resources
+2018-02-11 17:15:40,363 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salem:jee:0.0.1-SNAPSHOT @ D:\repositories\projects\jee\pom.xml.
+2018-02-11 17:15:40,453 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-11 17:15:40,475 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-11 17:15:40,482 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-11 17:15:40,484 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
